@@ -1,6 +1,13 @@
 # 💫 About Me:
 🔭 Hello there! I’m Kevin Garay, a passionate Junior QA Automation Engineer with backend experience,<br>Welcome to my GitHub profile where you can explore some exciting projects I've been working on 
 
+## 🧠 Skills:
+- QA Automation: I have a strong foundation in QA methodologies and practices, and I specialize in creating robust automated tests using popular tools and frameworks such as Selenium.
+- Backend Development: I'm proficient in backend development using technologies like Ruby or Python. I have experience building RESTful APIs and working with databases
+- Testing Tools: I'm familiar with a range of testing tools and frameworks, including BDD, Robot, PyTest, and Postman. 
+- Version Control: Git and GitHub are my go-to tools for version control and collaborative development.
+- Continuous Integration/Deployment (CI/CD): I have experience with popular CI/CD tools such as Jenkins, GitHub Actions and Azure devops
+- Agile Methodologies: I'm well-versed in Agile methodologies, including Scrum and Kanban. I enjoy working in fast-paced, collaborative environments and adapt quickly to changing requirements.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevin-gerardo-garay-medrano) 
