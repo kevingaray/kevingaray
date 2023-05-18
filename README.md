@@ -9,6 +9,10 @@
 - Continuous Integration/Deployment (CI/CD): I have experience with popular CI/CD tools such as Jenkins, GitHub Actions and Azure devops
 - Agile Methodologies: I'm well-versed in Agile methodologies, including Scrum and Kanban. I enjoy working in fast-paced, collaborative environments and adapt quickly to changing requirements.
 
+## 📂 Proyects
+###  Ruby on Rails
+- [Blog Application](https://github.com/kevingaray/rails-blog)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevin-gerardo-garay-medrano) 
 
@@ -26,3 +30,4 @@
 [![](https://visitcount.itsvg.in/api?id=kevingaray&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
