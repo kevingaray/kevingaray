@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 Hello there! I’m Kevin Garay, a passionate Junior QA Automation Engineer with backend experience,<br>Welcome to my GitHub profile where you can explore some exciting projects I've been working on 
+🔭 Hello there! I’m Kevin Garay, a passionate Junior QA Automation Engineer with backend experience,<br>Welcome to my GitHub profile where you can explore some exciting projects I've been working on  
+💻Can also visit my [web portafolio](https://kevingaray.github.io/)
 
 ## 🧠 Skills:
 - QA Automation: I have a strong foundation in QA methodologies and practices, and I specialize in creating robust automated tests using popular tools and frameworks such as Selenium.
@@ -9,7 +10,7 @@
 - Continuous Integration/Deployment (CI/CD): I have experience with popular CI/CD tools such as Jenkins, GitHub Actions and Azure devops
 - Agile Methodologies: I'm well-versed in Agile methodologies, including Scrum and Kanban. I enjoy working in fast-paced, collaborative environments and adapt quickly to changing requirements.
 
-## 📂 Proyects
+## 📂 Projects
 ###  Ruby on Rails
 - [Blog Application](https://github.com/kevingaray/rails-blog)
 
