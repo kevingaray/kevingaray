@@ -12,7 +12,8 @@
 
 ## 📂 Projects
 ###  Ruby on Rails
-- [Blog Application](https://github.com/kevingaray/rails-blog)
+- [Blog ](https://github.com/kevingaray/rails-blog) 
+- [Agenda](https://github.com/kevingaray/rails-friends)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevin-gerardo-garay-medrano) 
