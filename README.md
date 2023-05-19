@@ -12,7 +12,8 @@
 
 ## 📂 Projects
 ###  Ruby on Rails
-- [Blog ](https://github.com/kevingaray/rails-blog) 
+- [Chat web app](https://github.com/kevingaray/rails-chat)
+- [Blog](https://github.com/kevingaray/rails-blog) 
 - [Agenda](https://github.com/kevingaray/rails-friends)
 
 ## 🌐 Socials:
