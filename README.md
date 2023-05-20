@@ -11,10 +11,12 @@
 - Agile Methodologies: I'm well-versed in Agile methodologies, including Scrum and Kanban. I enjoy working in fast-paced, collaborative environments and adapt quickly to changing requirements.
 
 ## 📂 Projects
+### QA engineer 
+- [DevOps: Banking API](https://github.com/kevingaray/CI-Bank) : Flask api with CI on Github Actions 
 ###  Ruby on Rails
-- [Chat web app](https://github.com/kevingaray/rails-chat)
-- [Blog](https://github.com/kevingaray/rails-blog) 
-- [Agenda](https://github.com/kevingaray/rails-friends)
+- [Chat app](https://github.com/kevingaray/rails-chat) : Running with ActionCable as a WebSocket Protocol
+- [Blog](https://github.com/kevingaray/rails-blog) : Usign bootstrap for styling and Postgres as DB
+- [Agenda](https://github.com/kevingaray/rails-friends) : Basic ROR application
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevin-gerardo-garay-medrano) 
