@@ -12,7 +12,8 @@
 
 ## 📂 Projects
 ### QA engineer 
-- [DevOps: Banking API](https://github.com/kevingaray/CI-Bank) : Flask api with CI on Github Actions 
+- [DevOps: Banking API](https://github.com/kevingaray/CI-Bank) : Flask api with CI on Github Actions-
+- [API-testing: Posio](https://github.com/kevingaray/API-testing-Podio) : Testing framework using bdd
 ###  Ruby on Rails
 - [Chat app](https://github.com/kevingaray/rails-chat) : Running with ActionCable as a WebSocket Protocol
 - [Blog](https://github.com/kevingaray/rails-blog) : Usign bootstrap for styling and Postgres as DB
