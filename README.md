@@ -16,6 +16,7 @@
 - [API-testing: Podio](https://github.com/kevingaray/API-testing-Podio) : Testing framework using bdd (cucumbuer, gherkin)
 - [GUI-Testing: Blueprint](https://github.com/kevingaray/GUI-testing-Blueprint) : Testing framework for GUI using robot, python and selenium
 ###  Ruby on Rails
+- [Store](https://github.com/kevingaray/rails-store): Web store using stripe for payment, AWS to upload images and fly.io on deployment
 - [Chat app](https://github.com/kevingaray/rails-chat) : Running with ActionCable as a WebSocket Protocol
 - [Blog](https://github.com/kevingaray/rails-blog) : Usign bootstrap for styling and Postgres as DB
 - [Agenda](https://github.com/kevingaray/rails-friends) : Basic ROR application
