@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hello there! I’m Kevin Garay, a passionate Junior QA Automation Engineer with backend experience,<br>Welcome to my GitHub profile where you can explore some exciting projects I've been working on  
+🔭 Hello there! I’m Kevin Garay, a passionate QA Automation Engineer with backend experience,<br>Welcome to my GitHub profile where you can explore some exciting projects I've been working on  
 💻Can also visit my [web portafolio](https://kevingaray.github.io/)
 
 ## 🧠 Skills:
